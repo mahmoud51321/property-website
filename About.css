@@ -1,0 +1,19 @@
+.about-section {
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+.features-section {
+    padding-top: 20px !important; 
+    margin-top: 0 !important;
+}
+  .icon-circle {
+    background-color: #d6d8da;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    color: #333;
+  }
